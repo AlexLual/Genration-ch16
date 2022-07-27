@@ -4,38 +4,102 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>introduccionCss</title>
+    <title>Document</title>
+
+    <!-- PRIORIDAD CERO -->
     <style type="text/css" media="all">
       * {
+        /* * es un selector universal para "dar formato a todo el cuerpo"*/
         font-size: 1rem;
+        /* aquí solo se ajusta el tamaño del texto  */
       }
+
       p.aviso {
         color: blueviolet;
       }
+
       div.nuevo {
-        color: #ff0;
-      }
-      p {
-        color: rgba(255, 20, 145, 0.443);
+        color: pink;
       }
     </style>
-    <!--<link rel="stylesheet" href="style.css"> -->
+
+    <style>
+      *.univ {
+        color: #00af5da9;
+      }
+    </style>
+
+    <style>
+      .univ1 {
+        color: red;
+      }
+    </style>
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/selector.css" />
+    <!-- SELECTOR  ID, E#e, ALMOHADILLA -->
+    <style>
+      p#alm1 {
+        color: aquamarine;
+      }
+    </style>
+
+    <style>
+      #alm2 {
+        color: deeppink;
+      }
+    </style>
+
+    <style>
+      *#alm3 {
+        color: dodgerblue;
+      }
+    </style>
   </head>
+  <p>Esto es un párrafo 1</p>
+  <div>
+    <ul>
+      <li>
+        esto es una lista
+        <p>esto es otro párrafo interno</p>
+      </li>
+    </ul>
+    <p>esto es otro párrafo 3</p>
+  </div>
+
   <body>
-    <h1>esto es una prueba</h1>
-    <div class="nuevo">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-      A velit praesentium unde, necessitatibus pariatur voluptatum ea tempora.
-      <br />
-      Atque ea voluptatum veritatis quas minus eum sapiente, commodi quos? Eum,
-      impedit ipsa?
+    <!-- <h1 style = "color: #36C;"> Esto es una prueba</h1> -->
+
+    <h1>Esto es una prueba</h1>
+
+    <p id="alm3">
+      Esto es una alm1 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+      Dolorem placeat corrupti doloribus eos quis? Ut quae blanditiis, dicta
+      quidem ipsam aliquid deleniti officiis itaque doloremque sequi quis
+      corrupti ab. Possimus?
+    </p>
+
+    <div class="univ1">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus culpa
+      earum quasi ex soluta, delectus vel laboriosam rerum nam obcaecati, nihil,
+      voluptate sed reprehenderit autem voluptatibus veniam incidunt? Eos, fuga?
     </div>
+
+    <p class="univ">
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+    </p>
+
+    <!--  PRIMER SELECTOR DE CLASE  -->
+    <div class="nuevo">
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. <br />
+      Necessitatibus et consequatur, non tenetur nulla, dignissimos at libero
+      ipsum <br />
+      unde repellat doloribus officia repellendus fugiat tempora sapiente
+      aperiam ullam veritatis.
+    </div>
+
     <p class="aviso">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-      Quisquam cupiditate, voluptas distinctio nostrum deserunt architecto
-      laborum assumenda doloribus dignissimos aspernatur <br />
-      soluta similique ducimus inventore voluptatibus? Velit libero deserunt
-      debitis totam.
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
     </p>
   </body>
 </html>
