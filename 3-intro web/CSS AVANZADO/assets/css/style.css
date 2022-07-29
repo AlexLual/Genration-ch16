@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Square+Peg&display=swap");
+h1 {
+  font-size: 64px;
+  font-family: "Square Peg", cursive;
+}
+p {
+  font-family: "Anton", sans-serif;
+}

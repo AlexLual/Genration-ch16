@@ -1,0 +1,69 @@
+.cuadro-padre {
+  background-color: bisque;
+  height: 600px;
+  display: flex;
+
+  flex-direction: row;
+  /* Acomoda horizontal */
+  /* acomoda vertical */
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadro {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 10px solid black;
+  /* display: inline; */
+  /*   display: inline-block; */
+}
+.el-1 {
+  background-color: aqua;
+  /*  display: none; */
+  /* align-self sirve pra revelar a los hijos XD */
+  flex-grow: 1;
+  align-self: flex-start;
+}
+
+.el-2 {
+  background-color: blueviolet;
+  /* flex grow se usa para abarcar monitor */
+  flex-grow: 1;
+}
+.el-3 {
+  flex-grow: 1;
+  background-color: brown;
+}
+.el-4 {
+  flex-grow: 1;
+  background-color: red;
+}
+/* .el-5 {
+  background-color: yellow;
+}
+ */
+/* bootstrap */
+
+.contenedor {
+  height: 200px;
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: rgba(40, 2, 255, 0.523);
+}
+
+.fila {
+  display: flex;
+}
+
+.columna {
+  flex-grow: 1;
+}
+.color-rojo {
+  background-color: crimson;
+}
