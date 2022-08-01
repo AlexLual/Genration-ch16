@@ -1,0 +1,15 @@
+.img-carrusel {
+  height: calc(50vh - 76px);
+  object-fit: cover;
+}
+.img-carta{
+  height: 200px;
+  object-fit: cover;
+}
+body{
+  background-color: rgb(126, 2, 242);
+}
+.caja{
+  position: relative;
+top: -60px;
+}
