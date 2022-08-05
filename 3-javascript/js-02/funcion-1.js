@@ -20,32 +20,30 @@ function miProducto(a, b) {
 console.log("el producto es"+ miProducto(4, 5));
 
 
-function resta(a, b) {
+function miResta(a, b) {
   return (a - b)
   
 }
-let res;
+let res= miResta(10, 4)
 
 console.log("la resta es " + res);
 
 
  */
-function miNombre(nombres, apellidoPaterno, apellidoMaterno) {
-  miNombre = nombres + " " + apellidoPaterno + " " + apellidoMaterno
-  return(miNombre)
+function miNombre(a, b, c, d){
+return(a, + b, + c, + d)
   
-}
-let nombres= "Luis Alejandro"
-let apellidoPaterno="Hernandez"
-let apellidoMaterno="Duran"
+};
+  
 
-console.log("Mi nombre completo es;"+ miNombre, nombres, apellidoPaterno, apellidoMaterno);
+let nombreCompleto = miNombre("Luis", "Alejandro",  "Hernandez", "Duran");
+  
+
+console.log("Mi nombre completo es: " + nombreCompleto);
 
 
-let a = 90
-let b = 4
 function miDivision(a, b) {
-  return (a / b);
-}
-
-console.log("miDivision" (90/4))
+  return (a / b)
+};
+let divis = miDivision (90,4)
+console.log("miDivision es", + divis )
