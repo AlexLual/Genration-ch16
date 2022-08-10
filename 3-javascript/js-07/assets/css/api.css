@@ -1,0 +1,19 @@
+.btn-perrito{
+margin: 0% auto;
+display: block;
+background-color: blueviolet;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 10%;
+
+
+}
+#img-perrito{ /* //Selector de estilo */
+    display: block;
+    margin: 20px auto;
+
+    width: 600px;
+    height: 300px;
+}
+

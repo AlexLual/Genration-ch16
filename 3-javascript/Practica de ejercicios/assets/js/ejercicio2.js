@@ -1,20 +1,7 @@
-"use strict"
-for (let i =1; i <5; i++){
-  let resultado = "";
-  for (let j = 1; j <= 1; ++j) {
-    resultado += "* ";
+for (let i = 1; i < 6; i++) {
+  let asterisco = "";
+  for (let j = 0; j < i; j++) {
+    asterisco = asterisco + "*";
   }
-  console.log(resultado);
-
+  console.log(asterisco);
 }
-
-/* for(let i=0; i <5; i++) {
-  console.log("for principal " + i);
-  
-  
-  for(let j = 0; j < i; j++){
-    console.log("for interno" + j);
-  }
-  
-
-} */
