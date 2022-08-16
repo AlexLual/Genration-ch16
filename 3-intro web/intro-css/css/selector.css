@@ -7,3 +7,6 @@ div {
 div > p {
   color: red;
 }
+ .punto{
+  list-style: none;
+ }
