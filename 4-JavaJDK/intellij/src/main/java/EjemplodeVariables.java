@@ -37,7 +37,8 @@ public class EjemplodeVariables {
         System.out.println("double corresponde en bits:" + Double.SIZE );
         System.out.println("double valor maximo: " + Double.MAX_VALUE);
         System.out.println("double valor minimo: " + Double.MIN_VALUE);
-//valor booleano
+
+        //valor booleano
         boolean valorBoolean = (3-2==4);
         System.out.println("valorBoolean= " + valorBoolean);
 
@@ -49,13 +50,14 @@ public class EjemplodeVariables {
         System.out.println("Long valor maximo: " + Long.MAX_VALUE);
         System.out.println("Long valor minimo: " + Long.MIN_VALUE);
 
+      //variableByte
         Byte valorByte= 1;
  System.out.println("valorByte= " + valorByte);
         System.out.println("Byte corresponde en byte:" + Byte.BYTES);
         System.out.println("Byte corresponde en bits:" + Byte.SIZE );
         System.out.println("Byte valor maximo: " + Byte.MAX_VALUE);
         System.out.println("Byte valor minimo: " + Byte.MIN_VALUE);
-
+//variable short
         Short valorShort = 1;
 
         System.out.println("valorShort= " + valorShort);
