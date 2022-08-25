@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1ad5881-bfb5-410a-b2c9-0b48d3b245ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Coleciones/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coleciones/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coleciones/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coleciones/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/build/classes/java/main/Bucles.class" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/build/classes/java/main/Bucles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicional-bucles/src/main/java/Bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicional-bucles/src/main/java/Bucles.java" afterDir="false" />
-    </list>
+    <list default="true" id="f1ad5881-bfb5-410a-b2c9-0b48d3b245ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
