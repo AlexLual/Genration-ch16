@@ -24,8 +24,8 @@ public class Persona {
         return nss;
     }
 
-    void caminar() {System.out.println("Caminando");}
-    void dormir() {
+    public void caminar() {System.out.println("Caminando");}
+    public void dormir() {
         System.out.println("Mimir");
     }
 

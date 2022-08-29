@@ -2,9 +2,9 @@ package EjemplosResumen;
 
 public class MiClase
 {//Atributos de la clase
-    private String atributo;
-    private int atributo;
-    private float atributo;
+    private String atributo1;
+    private int atributo2;
+    private float atributo3;
 
     //Constructor con el mismo nombre de la clase
     public MiClase(){}
