@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1ad5881-bfb5-410a-b2c9-0b48d3b245ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PooJava/src/MetPrincipal/EjecutaT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PooJava/src/EjemplosResumen/Aclaracio2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PooJava/src/EjemplosResumen/MiClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/PooJava/src/EjemplosResumen/MiClase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PooJava/src/MePrincipal/Terminal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PooJava/src/MiEjemploJava/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/PooJava/src/MiEjemploJava/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PooJava/src/MiEjemplosaludo/Saludo.java" beforeDir="false" afterPath="$PROJECT_DIR$/PooJava/src/MiEjemplosaludo/Saludo.java" afterDir="false" />
-    </list>
+    <list default="true" id="f1ad5881-bfb5-410a-b2c9-0b48d3b245ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
