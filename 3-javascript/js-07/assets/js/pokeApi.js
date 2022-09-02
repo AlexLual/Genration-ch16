@@ -16,6 +16,7 @@ const listaTipos = document.getElementById("tipos")
 
 const formulario = document.getElementById("buscar-pokemon");
 
+console.log(formulario);
 //Evento
 formulario.addEventListener("submit", (e) => {
   e.preventDefault()
